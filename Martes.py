@@ -20,4 +20,15 @@ class Sonido():
 
     def furier(self):
         pass
+ 
+
+class Video():
+    def blancoNegro(self):
+	pass
+
     
+    def pause(self):
+	pass
+
+
+
