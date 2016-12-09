@@ -26,7 +26,7 @@ class Video():
     def blancoNegro(self):
 	pass
 
-    
+    ##hola :v
     def pause(self):
 	pass
 
